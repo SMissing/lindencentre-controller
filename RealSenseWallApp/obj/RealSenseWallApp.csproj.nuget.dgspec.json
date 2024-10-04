@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44787\\Desktop\\LindenCentre Controller\\RealSenseWallApp\\RealSenseWallApp.csproj": {}
+    "C:\\Users\\44787\\Desktop\\LindenCentre_Controller\\RealSenseWallApp\\RealSenseWallApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44787\\Desktop\\LindenCentre Controller\\RealSenseWallApp\\RealSenseWallApp.csproj": {
+    "C:\\Users\\44787\\Desktop\\LindenCentre_Controller\\RealSenseWallApp\\RealSenseWallApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44787\\Desktop\\LindenCentre Controller\\RealSenseWallApp\\RealSenseWallApp.csproj",
+        "projectUniqueName": "C:\\Users\\44787\\Desktop\\LindenCentre_Controller\\RealSenseWallApp\\RealSenseWallApp.csproj",
         "projectName": "RealSenseWallApp",
-        "projectPath": "C:\\Users\\44787\\Desktop\\LindenCentre Controller\\RealSenseWallApp\\RealSenseWallApp.csproj",
+        "projectPath": "C:\\Users\\44787\\Desktop\\LindenCentre_Controller\\RealSenseWallApp\\RealSenseWallApp.csproj",
         "packagesPath": "C:\\Users\\44787\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44787\\Desktop\\LindenCentre Controller\\RealSenseWallApp\\obj\\",
+        "outputPath": "C:\\Users\\44787\\Desktop\\LindenCentre_Controller\\RealSenseWallApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

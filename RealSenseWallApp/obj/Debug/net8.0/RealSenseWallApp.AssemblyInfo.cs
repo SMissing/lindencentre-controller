@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealSenseWallApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d4db3fe31b566c284240d3eeec7719d4353130")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealSenseWallApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealSenseWallApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

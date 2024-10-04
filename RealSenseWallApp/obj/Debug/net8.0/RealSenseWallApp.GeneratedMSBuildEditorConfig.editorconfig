@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RealSenseWallApp
-build_property.ProjectDir = C:\Users\44787\Desktop\LindenCentre Controller\RealSenseWallApp\
+build_property.ProjectDir = C:\Users\44787\Desktop\LindenCentre_Controller\RealSenseWallApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
